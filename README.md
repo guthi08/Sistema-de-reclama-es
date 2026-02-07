@@ -34,7 +34,7 @@ A ideia central é transformar reclamações dispersas em dados estruturados em 
   - Atualizar status (*pendente, em análise, em andamento, resolvido, cancelado*).
   - Registrar observações internas ou públicas sobre o atendimento.
 
-## Púbblio Alvo
+## Público Alvo
 - Cidadãos que desesejam registrar e acompanhar problemas em sua cidade.
 - Gestores púbicos responsáveis pelo planejamento e execução de melhorias urbanas.
 
